@@ -10,7 +10,4 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GitHubStudy" />
 
-    <!--    -->
-    <!--    -->
-
 </manifest>
